@@ -1,0 +1,25 @@
+_repo: Mr-and-Mrs-Sen_59200
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miln, Louise Jordan
+    aliases:
+    - Jordan, Louise
+    - Miln, Mrs. George Crichton
+    birthdate: 1864
+    deathdate: 1933
+    gutenberg_agent_id: '44626'
+    url: http://www.gutenberg.org/2009/agents/44626
+description: ''
+gutenberg_issued: '2019-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mr. and Mrs. Sên
+url: http://www.gutenberg.org/ebooks/59200
